@@ -1,2 +1,4 @@
 #!/bin/bash
 O string SCHOOL School data !:mime School
+file -C-m
+file --mime-type -m
