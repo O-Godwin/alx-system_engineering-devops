@@ -1,4 +1,2 @@
 #!/bin/bash
-su
-su/bettry
-su bettry
+su betty
