@@ -1,1 +1,2 @@
-alias p="pwd"
+#!/bin/bash
+alias [-p] [name="value"]
