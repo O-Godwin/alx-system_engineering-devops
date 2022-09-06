@@ -1,2 +1,1 @@
-#!/bin/bas
- p="pwd"
+alias p="pwd"
